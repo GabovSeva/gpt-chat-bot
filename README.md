@@ -24,7 +24,7 @@ cd gpt-chat-bot
 ### 2. Получение API ключа
 Для работы используется **GitHub Models**. Чтобы получить токен:
 1. Перейдите на страницу модели GPT-4o - https://github.com/marketplace/models/azure-openai/gpt-4o/playground.
-2. Нажмите **"Get API key"**.
+2. Нажмите **"Use this model"**.
 3. Используйте ваш Personal Access Token (Classic) с доступом к моделям.
 
 ### 3. Настройка окружения
