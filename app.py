@@ -7,7 +7,7 @@ import base64
 from werkzeug.utils import secure_filename
 from dotenv import load_dotenv
 
-# Загружаем токен из .env файла
+# Загружаем токен 
 load_dotenv()
 
 app = Flask(__name__)
